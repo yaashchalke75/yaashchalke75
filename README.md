@@ -1,4 +1,4 @@
-[![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40oninross%2Fdo-full-stack-developers-exist-or-are-they-just-wishful-thinking-2b7f5863af63&psig=AOvVaw1j0c37gUAhSTz6SsXgWBAp&ust=1729955106430000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCKD45I_nqYkDFQAAAAAdAAAAABBv)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Yash Chalke</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
