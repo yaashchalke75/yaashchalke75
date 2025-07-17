@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaashchalke75&label=Profile%20views&color=0e75b6&style=flat" alt="yaashchalke75" /> </p>
 
-- 🔭 I’m currently working on **E-Commerce**
+- 🔭 I’m currently working on **NextJs Project**
 
-- 🌱 I’m currently learning **ReactJS , NodeJS**
+- 🌱 I’m currently learning **ReactJS, NodeJS, NextJS**
 
-- 💬 Ask me about **FrontEnd**
+- 💬 Ask me about **FrontEnd Development**
 
 - 📫 How to reach me **chalkeyash11@gmail.com**
 
