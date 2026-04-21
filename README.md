@@ -1,31 +1,88 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h1 align="center">Hi 👋, I'm Yash Chalke</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yaashchalke75&label=Profile%20views&color=0e75b6&style=flat" alt="yaashchalke75" /> </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Yash+Chalke+%F0%9F%91%8B;Frontend+Developer+from+India;Building+with+React+%26+Next.js" alt="Typing SVG" />
 
-- 🔭 I’m currently working on **NextJs Project**
-
-- 🌱 I’m currently learning **ReactJS, NodeJS, NextJS**
-
-- 💬 Ask me about **FrontEnd Development**
-
-- 📫 How to reach me **chalkeyash11@gmail.com**
-
-- ⚡ Fun fact **I think i am not a developer😅**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yashchalke75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashchalke75" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/yaashnx_75?igsh=oxj4exn1bmd1nxp1&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yaaashhh___?igsh=OXJ4eXN1bmd1NXp1&utm_source=qr" height="30" width="40" /></a>
+<p>
+  <img src="https://komarev.com/ghpvc/?username=yaashchalke75&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
+  <a href="https://linkedin.com/in/yashchalke75">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:chalkeyash11@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/yaashnx_75">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaashchalke75&show_icons=true&locale=en&layout=compact" alt="yaashchalke75" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yaashchalke75&show_icons=true&locale=en" alt="yaashchalke75" /></p>
+### 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yaashchalke75&" alt="yaashchalke75" /></p>
+```js
+const yash = {
+  role: "Frontend Developer",
+  location: "India",
+  currentlyBuilding: "Next.js projects",
+  learning: ["React", "Next.js", "Node.js"],
+  focus: "Clean UI, performant components, and shipping real products",
+  askMeAbout: ["Frontend development", "React", "UI engineering"],
+  reachMe: "chalkeyash11@gmail.com"
+};
+```
+
+- 🔭 Currently working on a **Next.js project**
+- 🌱 Deepening my skills in **React, Next.js, and Node.js**
+- 💬 Happy to chat about **frontend development**
+- 📫 Reach me at **chalkeyash11@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+**Core**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,nextjs" alt="core stack" />
+</p>
+
+**Also work with**
+<p>
+  <img src="https://skillicons.dev/icons?i=java,mysql,mongodb,firebase,git,github" alt="other tools" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=yaashchalke75&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaashchalke75&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
+
+<img src="https://streak-stats.demolab.com?user=yaashchalke75&theme=tokyonight&hide_border=true" alt="streak stats" />
+
+</div>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/yashchalke75" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="32" width="32" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/yaashnx_75" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="32" width="32" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:chalkeyash11@gmail.com">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="32" width="32" />
+  </a>
+</p>
+
+<div align="center">
+  <sub>⚡ Always open to collaboration on interesting frontend projects.</sub>
+</div>
