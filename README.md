@@ -33,7 +33,7 @@
 ```javascript
 const yash = {
   role: "Frontend Developer",
-  location: "India 🇮🇳",
+  location: "India",
   building: "Next.js project",
   learning: ["React", "Next.js", "Node.js"],
   askMeAbout: "Frontend Development",
@@ -46,6 +46,7 @@ const yash = {
 - 🌱 Currently learning **ReactJS, NodeJS, NextJS**
 - 💬 Ask me about **Frontend Development**
 - 📫 Reach me at **chalkeyash11@gmail.com**
+- 🇮🇳 Based in **India**
 - ⚡ Fun fact: **I turn coffee into components** ☕
 
 <br clear="right"/>
@@ -115,7 +116,7 @@ const yash = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=yaashchalke75&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=0E75B6&icon_color=0E75B6" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=yaashchalke75&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0E75B6&icon_color=0E75B6" alt="GitHub Stats" />
 &nbsp;
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=yaashchalke75&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0D1117&title_color=0E75B6" alt="Top Languages" />
 
@@ -123,16 +124,6 @@ const yash = {
 
 <img src="https://streak-stats.demolab.com?user=yaashchalke75&theme=tokyonight&hide_border=true&background=0D1117&ring=0E75B6&fire=0E75B6&currStreakLabel=0E75B6" alt="GitHub Streak" />
 
-</div>
-
-<!-- ============================================= -->
-<!--                TROPHIES                       -->
-<!-- ============================================= -->
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yaashchalke75&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 </div>
 
 <!-- ============================================= -->
@@ -150,7 +141,7 @@ const yash = {
 <!-- ============================================= -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/yaashchalke75/yaashchalke75/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
 <!-- ============================================= -->
@@ -159,7 +150,7 @@ const yash = {
 
 <div align="center">
 
-### 💭 Dev Quote of the Day
+### 💭 Dev Quote
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
 
