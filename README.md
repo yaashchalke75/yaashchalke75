@@ -137,51 +137,6 @@ const yash = {
 </div>
 
 <!-- ============================================= -->
-<!--               SNAKE ANIMATION                 -->
-<!-- ============================================= -->
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yaashchalke75/yaashchalke75/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
-  name: Generate Snake
-
-on:
-  schedule:
-    # Runs every 12 hours
-    - cron: "0 */12 * * *"
-  # Allows manual trigger from Actions tab
-  workflow_dispatch:
-  # Runs on every push to main
-  push:
-    branches:
-      - main
-
-jobs:
-  generate:
-    permissions:
-      contents: write
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-
-    steps:
-      - name: Generate snake SVGs
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Push SVGs to the output branch
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-</div>
-
-<!-- ============================================= -->
 <!--                QUOTE                          -->
 <!-- ============================================= -->
 
